@@ -17,7 +17,7 @@ And now, looking at the next image, we can see how accurate is the algorithm. If
 <img src="images/reference.png" width="500" align = "center">
 </p>
 
-## Autor
+## Author
 [Rubén Espino San José](https://github.com/Resaj)
 
 ## License
