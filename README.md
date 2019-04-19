@@ -20,7 +20,7 @@ And now, looking at the next image, we can see how accurate is the algorithm. If
 Supposing a measured ADC value between 0 and 1023 (10 bits ADC), the approximate transfer functions are:
 * GP2D120: distance = 16,8 * ((2914 / (adc_value + 35) - 0,5))
 * GP2Y0A21: distance = 31 * ((3000 / (adc_value + 1) - 0,8))
-* GP2Y0A41: distance = 16,8 * ((2914 / (adc_value + 18) - 1,5))
+* GP2Y0A41: distance = 10,1 * ((2914 / (adc_value + 18) - 1,5))
 
 ## Author
 [Rubén Espino San José](https://github.com/Resaj)
