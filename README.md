@@ -1,5 +1,5 @@
-# GP2D120 and GP2Y0A21 transfer functions
-Study of the transfer functions of the sensors GP2D120 and GP2Y0A21.
+# GP2D120, GP2Y0A21 and GP2Y0A41 transfer functions
+Study of the transfer functions of the sensors GP2D120, GP2Y0A21 and GP2Y0A41.
 
 Normally, the analog distance sensors are non-linear systems that provides a rare transfer function voltage/distance. So, I've tried to create a formule of each case to convert automatically the voltage to the distance.
 
